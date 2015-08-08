@@ -4807,7 +4807,18 @@ public final class Settings {
         public static final String ADAPTIVE_PLAYBACK_TIMEOUT = "adaptive_playback_timeout";
 
         /**
-         * Keys we no longer back up under the current schema, but want to continue to
+         * How many action items before moving to overflow
+         *
+         * @hide
+         * Three Finger Gesture from Oppo
+         * @hide
+         */
+        public static final String THREE_FINGER_GESTURE = "three_finger_gesture";
+
+
+        /**
+         * How many action items before moving to overflow
+         *
          * process when restoring historical backup datasets.
          *
          * All settings in {@link LEGACY_RESTORE_SETTINGS} array *must* have a non-null validator,
