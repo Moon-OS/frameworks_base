@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- PowerShare QS tile -->
+    <string name="quick_settings_powershare_label">PowerShare sem fio</string>
+    <string name="quick_settings_powershare_off_powersave_label">PowerShare sem fio desligado\nEconomia de bateria</string>
+    <string name="quick_settings_powershare_off_low_battery_label">PowerShare sem fio desligado\nBateria muito fraca</string>
+    <string name="quick_settings_powershare_enabled_label">PowerShare sem fio está ativado</string>
+
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Reiniciar</string>
+    <string name="global_action_reboot_more">Reiniciar\u2026</string>
+    <string name="global_action_reboot_sub">Sistema</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Configurações</string>
+
+    <!-- Heads Up QS Tile -->
+    <string name="quick_settings_heads_up_label">Peek notificações</string>
+    <string name="accessibility_quick_settings_heads_up_off">Peek notificações desativadas.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Peek notificações permitidas.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Peek notificações desligadas.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Peek notificações ligadas.</string>
+
+    <!-- Caffeine QS Tile -->
+    <string name="quick_settings_caffeine_label">Cafeína</string>
+    <string name="accessibility_quick_settings_caffeine_off">Cafeína desligada</string>
+    <string name="accessibility_quick_settings_caffeine_on">Cafeína ligada</string>
+</resources>
