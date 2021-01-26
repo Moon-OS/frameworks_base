@@ -25,4 +25,8 @@
     <string name="quick_settings_caffeine_label">Cafeína</string>
     <string name="accessibility_quick_settings_caffeine_off">Cafeína desligada</string>
     <string name="accessibility_quick_settings_caffeine_on">Cafeína ligada</string>
+
+    <!-- Brightness slider -->
+    <string name="tuner_show_brightness_new">Mostrar controle deslizante de brilho</string>
+    <string name="tuner_brightness_position_bottom">Controle deslizante de brilho na parte inferior</string>
 </resources>
